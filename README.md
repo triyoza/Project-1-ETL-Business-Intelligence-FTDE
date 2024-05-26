@@ -31,8 +31,7 @@ Steps
 ## Usage Guide
 All necessary files have been uploaded to this repository. To follow the ETL process and see the final visualization:
 
-- Open the Jupyter Notebook located in the notebooks/ folder:
-jupyter notebook notebooks/etl.ipynb
+- Open the jupyter notebook: etl.ipynb
 - Follow the steps in the notebook to perform the ETL process and upload the Data Marts to a spreadsheet.
 - Open Looker Studio and use the following link to view the data visualization: Your Looker Studio Link
 
