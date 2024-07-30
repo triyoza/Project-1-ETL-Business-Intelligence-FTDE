@@ -14,9 +14,9 @@ The project aims to:
 - Visualize the data using Looker Studio.
 
 ## Repository Structure
-notebooks/: This file contains the Jupyter Notebook used for the ETL process and uploading Data Marts to the spreadsheet.
-config/: This file is used in jupyter notebook
-data/: This file contains sample data used in this project.
+notebooks/: This file contains the Jupyter Notebook used for the ETL process and uploading Data Marts to the spreadsheet.<br>
+config/: This file is used in jupyter notebook<br>
+data/: This file contains sample data used in this project.<br>
 reports/: This folder contains the visualization reports created with Looker Studio.
 
 Steps
@@ -33,7 +33,7 @@ All necessary files have been uploaded to this repository. To follow the ETL pro
 
 - Open the jupyter notebook: etl.ipynb
 - Follow the steps in the notebook to perform the ETL process and upload the Data Marts to a spreadsheet.
-- Open Looker Studio and use the following link to view the data visualization: Your Looker Studio Link
+- Open Looker Studio and use the following link to view the data visualization:
 
 
 ## Visualization Results
